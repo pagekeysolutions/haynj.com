@@ -1,22 +1,29 @@
-
-
 /* ==========================================================================
-   Author's custom styles
+   Custom styles
    ========================================================================== */
 
+.body {
+	padding-top: 0px;
+	padding-bottom: 20px;
+}
 
+.jumbotron {
+	background-color: yellow;
+}
 
+.mynav {
+	margin-bottom: 0px;
+}
 
+#logo_title {
+	color:black;
+	text-decoration: none;
+}
+#logo_title:hover {
+	color:black;
+	text-decoration: none;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+.logo {
+	font-size:3em;
+}
