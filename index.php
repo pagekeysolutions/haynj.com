@@ -21,32 +21,28 @@
     
     <header class="container">
     	<a href="#" id="logo"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="./img/logo-medium.png"></img></a>
-    	<p class="text-center slogan" ><i>The Finest New Jersey Hay</i></p>
     </header>
 
 	<nav class="navbar navbar-default mynav" role="navigation">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          
-          <div class="collapse navbar-collapse">
-	          <ul class="nav navbar-nav">
-	            <li class="active"><a href="#">Home</a></li>
-	            <li><a href="#about">Hay</a></li>
-	            <li><a href="#about">Wood</a></li>
-	            <li><a href="#about">About</a></li>
-	            <li><a href="#contact">Contact</a></li>
-	          </ul>
-          </div>
-        </div>
-      </div>
-    </nav>
-
+	  <div class="navbar-header">
+	    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	    </button>    
+	    <a class="navbar-brand" href="#"><p class="text-center slogan" ><i>The Finest New Jersey Hay</i></p></a>
+	  </div>
+	  <div class="navbar-collapse collapse">
+	    <ul class="nav navbar-nav navbar-left">
+	        <li><a href="#about">Hay</a></li>
+		    <li><a href="#about">Wood</a></li>
+	    </ul>
+	    <ul class="nav navbar-nav navbar-right">
+	      <li><a href="#about">About</a></li>
+		  <li><a href="#contact">Contact</a></li>
+	    </ul>
+	  </div>
+	</nav>
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
@@ -70,8 +66,11 @@
 
       <hr>
 
-      <footer>
-        <p>HayNJ <?php echo date('Y'); ?></p>
+      <footer class="container">
+      <div class="row">
+      <div class="col-md-8 center col-md-offset-2">
+        <p class="text-center">HayNJ <?php echo date('Y'); ?></p>
+        </div></div>
       </footer>
     </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>

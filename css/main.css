@@ -9,7 +9,7 @@
 
 .jumbotron {
 	background-image: url('../img/stock-hay-img-blur.jpg');
-	background-size: 100% auto;
+	background-size: 100% 280%;
 	background-position: center;
 	color: white;
 }
@@ -29,32 +29,19 @@
 	margin: 0px;
 	padding: 0px;
 }
-/*
- .navbar-nav {
-    width: 100%;
-    text-align: center;
-  }
 
-  .navbar-nav > li {
-  	float: none;
-    display: inline-block;
-  }*/
-.mynavbar {
-	text-align:center;
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
 }
-.mynavbar .nav {
-	float:none;
+.navbar-toggle {
+    z-index:3;
 }
-.mynavbar .nav li {
-	display:inline-block;
-	float:none;
-	margin:0 20px;
-	vertical-align:middle;
+.navbar-right {
+	padding-right: 1em;
 }
-.mynavbar .nav li {
-	display:block;
-	margin:0
-}
-.navbar-collapse {
-	width: 100%;
-}
+
