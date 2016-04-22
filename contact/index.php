@@ -34,12 +34,12 @@
 	  </div>
 	  <div class="navbar-collapse collapse">
 	    <ul class="nav navbar-nav navbar-left">
-	        <li><a href="./hay">Hay</a></li>
-		    <li><a href="./wood">Wood</a></li>
+	        <li><a href="#about">Hay</a></li>
+		    <li><a href="#about">Wood</a></li>
 	    </ul>
 	    <ul class="nav navbar-nav navbar-right">
-	      <li><a href="./about">About</a></li>
-		  <li><a href="./contact">Contact</a></li>
+	      <li><a href="#about">About</a></li>
+		  <li><a href="#contact">Contact</a></li>
 	    </ul>
 	  </div>
 	</nav>
@@ -49,7 +49,7 @@
 	      <div class="col-md-8 col-md-offset-2">
 		    <h1>Hay there!</h1>
 	        <p>HayNJ is a hay vendor located in Columbus, New Jersey.</p>
-	        <p><a class="btn btn-primary btn-lg" href="./about" role="button">Learn more &raquo;</a></p>
+	        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
 	      </div>
       </div>
     </div>
@@ -61,7 +61,7 @@
 	      <div class="col-md-4">
 	     	<h2>Welcome to HayNJ</h2>
           	<p>HayNJ is a high-quality hay vendor located in Columbus, New Jersey. We provide a variety of different hays, including timothy, alfalfa, and straw.</p>
-          	<p><a class="btn btn-default" href="./about" role="button">More about HayNJ &raquo;</a></p>
+          	<p><a class="btn btn-default" href="#" role="button">More about HayNJ &raquo;</a></p>
 	      </div>
 
 	      <div class="col-md-4">
