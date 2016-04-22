@@ -9,7 +9,7 @@
         <title>HayNJ</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -20,12 +20,12 @@
     <body>
     
     <header class="container">
-    	<a href="#" id="logo_title"><span class="logo">HayNJ</span></a>
-    	<p>The Finest New Jersey Hay</p>
+    	<a href="#" id="logo"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="./img/logo-medium.png"></img></a>
+    	<p class="text-center slogan" ><i>The Finest New Jersey Hay</i></p>
     </header>
 
 	<nav class="navbar navbar-default mynav" role="navigation">
-      <div class="container">
+      <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
@@ -34,13 +34,15 @@
             <span class="icon-bar"></span>
           </button>
           
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">Hay</a></li>
-            <li><a href="#about">Wood</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
-          </ul>
+          <div class="collapse navbar-collapse">
+	          <ul class="nav navbar-nav">
+	            <li class="active"><a href="#">Home</a></li>
+	            <li><a href="#about">Hay</a></li>
+	            <li><a href="#about">Wood</a></li>
+	            <li><a href="#about">About</a></li>
+	            <li><a href="#contact">Contact</a></li>
+	          </ul>
+          </div>
         </div>
       </div>
     </nav>
