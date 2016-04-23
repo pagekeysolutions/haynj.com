@@ -8,13 +8,27 @@
 }
 
 .jumbotron {
-	background-image: url('../img/stock-hay-img-blur.jpg');
+	background-image: url('../img/jumbotron/stock-hay-img-blur.jpg');
 	background-size: 100% 280%;
 	background-position: center;
 	color: white;
 }
 .jumbotron h1 {
 	text-shadow: 2px 2px black;
+}
+
+.jumbotron-about {
+	background-image: url('../img/jumbotron/barn-blur.png');
+}
+.jumbotron-contact {
+	background-image: url('../img/jumbotron/field-blur.jpg');
+}
+.jumbotron-wood {
+	background-image: url('../img/jumbotron/wood-blur.png');
+	text-shadow: 1px 1px black;
+}
+.jumbotron-hay {
+	background-image: url('../img/jumbotron/bales-blur.jpg');
 }
 
 .mynav {

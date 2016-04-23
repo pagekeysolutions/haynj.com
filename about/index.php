@@ -9,18 +9,18 @@
         <title>HayNJ</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="../css/main.css">
 
-        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <script src="../js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
     <body>
     
     <header class="container">
-    	<a href="#" id="logo"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="./img/logo-medium.png"></img></a>
+    	<a href="../" id="logo"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="../img/logo-medium.png"></img></a>
     </header>
 
 	<nav class="navbar navbar-default mynav" role="navigation">
@@ -30,26 +30,24 @@
 	      <span class="icon-bar"></span>
 	      <span class="icon-bar"></span>
 	    </button>    
-	    <a class="navbar-brand" href="#"><p class="text-center slogan" ><i>The Finest New Jersey Hay</i></p></a>
+	    <a class="navbar-brand" href="../"><p class="text-center slogan" ><i>The Finest New Jersey Hay</i></p></a>
 	  </div>
 	  <div class="navbar-collapse collapse">
 	    <ul class="nav navbar-nav navbar-left">
-	        <li><a href="#about">Hay</a></li>
-		    <li><a href="#about">Wood</a></li>
+	        <li><a href="../hay">Hay</a></li>
+		    <li><a href="../wood">Wood</a></li>
 	    </ul>
 	    <ul class="nav navbar-nav navbar-right">
-	      <li><a href="#about">About</a></li>
-		  <li><a href="#contact">Contact</a></li>
+	      <li><a href="#" class="active">About</a></li>
+		  <li><a href="../contact">Contact</a></li>
 	    </ul>
 	  </div>
 	</nav>
     <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
+    <div class="jumbotron jumbotron-about">
       <div class="container">
 	      <div class="col-md-8 col-md-offset-2">
-		    <h1>Hay there!</h1>
-	        <p>HayNJ is a hay vendor located in Columbus, New Jersey.</p>
-	        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+		    <h1>HayNJ is your one-stop source for hay.</h1>
 	      </div>
       </div>
     </div>
@@ -59,13 +57,13 @@
     <div class="row">
 	      <div class="col-md-2"></div>
 	      <div class="col-md-4">
-	     	<h2>Welcome to HayNJ</h2>
-          	<p>HayNJ is a high-quality hay vendor located in Columbus, New Jersey. We provide a variety of different hays, including timothy, alfalfa, and straw.</p>
-          	<p><a class="btn btn-default" href="#" role="button">More about HayNJ &raquo;</a></p>
+	      	<h2>About Us</h2>
+	     	<p>HayNJ is a local, family-owned hay vendor located in Columbus, New Jersey. Contact us for all of your hay needs, and we will do everything in our power to complete your order.</p>
+	     	<p>Give us a call, shoot an email, and we can get to work on fulfilling all of your hay and wood needs!</p>
 	      </div>
 
 	      <div class="col-md-4">
-	      	<h2>Our Location</h2>
+	      	<h2>Where to find us</h2>
 	      	<p>Our farm is convenientally located in Columbus, New Jersey. This central New Jersey town is easily accessible from Rt. 295 or the Turnpike.
 	      	<div class="embed-responsive embed-responsive-16by9">
 	      		<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1142.9625736854543!2d-74.67858409712565!3d40.066580224327815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c14365220a35db%3A0x75bdf1718af46085!2s27058+Gaunts+Bridge%2C+Mansfield%2C+NJ+08022!5e1!3m2!1sen!2sus!4v1461332025860" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
