@@ -52,7 +52,7 @@
     <div class="jumbotron jumbotron-contact">
       <div class="container">
 	      <div class="col-md-8 col-md-offset-2">
-		    <h1>Get in touch with HayNJ!</h1>
+		    <h1>Get in touch with HayNJ!</h1><br/>
 	      </div>
       </div>
     </div>
