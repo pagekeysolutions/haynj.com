@@ -74,9 +74,9 @@
 	     	</ul>
 	     	<p>You can choose from the following bale sizes:</p>
 	     	<ul>
-	     		<li>Small bales</li>
+	     		<li>Small 2-string bales</li>
 	     		<li>Large round</li>
-	     		<li>Large square 2-string</li>
+	     		<li>Large square</li>
 	     	</ul>
 	     	<p><b>We deliver.</b> Contact us for pricing information.
 	     	<p>Ready for the next step?</p>
