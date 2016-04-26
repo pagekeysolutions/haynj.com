@@ -32,7 +32,10 @@
 	background-image: url('../img/jumbotron/bales-blur.jpg');
 }
 .jumbotron-shavings {
-	background-image: url('../img/jumbotron/shavings2.jpg');
+	background-image: url('../img/jumbotron/shavings1.jpg');
+}
+.jumbotron-salt {
+	background-image: url('../img/jumbotron/salt3.jpg');
 }
 
 .mynav {

@@ -49,12 +49,11 @@
 	  </div>
 	</nav>
     <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
+    <div class="jumbotron jumbotron-salt">
       <div class="container">
 	      <div class="col-md-8 col-md-offset-2">
-		    <h1>Hay there!</h1>
-	        <p>HayNJ is a hay supplier located in Columbus, New Jersey.</p>
-	        <p><a class="btn btn-primary btn-lg" href="../about" role="button">Learn more &raquo;</a></p>
+		    <h1>Salt by the Bag</h1>
+	        <p>We have plenty to spare!</p><br/>
 	      </div>
       </div>
     </div>

@@ -39,8 +39,8 @@
 	    <ul class="nav navbar-nav navbar-left">
 	        <li><a href="../hay">Hay</a></li>
 		    <li><a href="../wood">Firewood</a></li>
-		    <li><a href="../shavings">Shavings</a></li>
-		    <li><a href="#" class="active">Salt</a></li>
+		    <li><a href="#" class="active">Shavings</a></li>
+		    <li><a href="../salt">Salt</a></li>
 	    </ul>
 	    <ul class="nav navbar-nav navbar-right">
 	      <li><a href="../about">About</a></li>
