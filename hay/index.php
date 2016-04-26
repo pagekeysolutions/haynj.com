@@ -59,14 +59,21 @@
 	    <div class="col-md-8">
 	      	<h2>Our Hay</h2>
 	     	<p>Welcome to HayNJ. Located in Columbus, New Jersey, we are a grower and seller of high-quality hay available in a number of varieties and variations.</p>
-	     	<p>Contact us today and find out about our supply of:
+	     	<p>HayNJ sells the following types of hay and straw:</p>
 	     	<ul>
 	     		<li>Timothy Hay</li>
 	     		<li>Alfalfa Hay</li>
-	     		<li>Western Hay</li>
+	     		<li>Grass Hay</li>
 	     		<li>Straw</li>
 	     		<li>Hay Mixes</li>
 	     	</ul>
+	     	<p>You can choose from the following bale sizes:</p>
+	     	<ul>
+	     		<li>Small bales</li>
+	     		<li>Large round</li>
+	     		<li>Large square 2-string</li>
+	     	</ul>
+	     	<p><b>We deliver.</b> Contact us for pricing information.
 	     	<p>Ready for the next step?</p>
 	     	<p><a class="btn btn-info" href="../contact" role="button"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact Us</a></p>
 		</div>

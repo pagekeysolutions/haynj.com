@@ -58,8 +58,8 @@
 	      <div class="col-md-2"></div>
 	      <div class="col-md-4">
 	      	<h2>About Us</h2>
-	     	<p>HayNJ is a local, family-owned hay vendor located in Columbus, New Jersey. Contact us for all of your hay needs, and we will do everything in our power to complete your order.</p>
-	     	<p>Give us a call, shoot an email, and we can get to work on fulfilling all of your hay and wood needs!</p>
+	     	<p>HayNJ is a local, family-owned hay supplier located in Columbus, New Jersey. Contact us for all of your hay needs, and we will do everything in our power to complete your order.</p>
+	     	<p>Contact us now, and we will get to work fulfilling all of your farm supply needs.</p>
 	      </div>
 
 	      <div class="col-md-4">

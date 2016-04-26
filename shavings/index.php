@@ -19,8 +19,11 @@
     </head>
     <body>
     
-    <header class="container">
-    	<a href="../" id="logo"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="../img/logo-medium.png"></img></a>
+    <header class="container-fluid">
+    	<div class="row">
+    		<div class="col-md-4 col-md-offset-4"><a href="#"><img class="img-fluid center-block" width="200px" alt="HayNJ" src="../img/logo-medium.png"></img></a></div>
+    		<div class="col-md-4"><p class="text-right"><a class="text-info link-telephone" href="tel:908-489-7440" role="button"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (908) 489-7440</a></p></div>
+    	</div>
     </header>
 
 	<nav class="navbar navbar-default mynav" role="navigation">
@@ -30,24 +33,28 @@
 	      <span class="icon-bar"></span>
 	      <span class="icon-bar"></span>
 	    </button>    
-	    <a class="navbar-brand" href="../"><p class="text-center slogan" ><i>The Finest New Jersey Hay</i></p></a>
+	    <a class="navbar-brand" href="#"><p class="text-center slogan" ><i>The Finest New Jersey Hay</i></p></a>
 	  </div>
 	  <div class="navbar-collapse collapse">
 	    <ul class="nav navbar-nav navbar-left">
 	        <li><a href="../hay">Hay</a></li>
-		    <li><a href="../wood">Wood</a></li>
+		    <li><a href="../wood">Firewood</a></li>
+		    <li><a href="../shavings">Shavings</a></li>
+		    <li><a href="#" class="active">Salt</a></li>
 	    </ul>
 	    <ul class="nav navbar-nav navbar-right">
 	      <li><a href="../about">About</a></li>
-		  <li><a href="#" class="active">Contact</a></li>
+		  <li><a href="../contact">Contact</a></li>
 	    </ul>
 	  </div>
 	</nav>
     <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron jumbotron-contact">
+    <div class="jumbotron">
       <div class="container">
 	      <div class="col-md-8 col-md-offset-2">
-		    <h1>Get in touch with HayNJ!</h1>
+		    <h1>Hay there!</h1>
+	        <p>HayNJ is a hay supplier located in Columbus, New Jersey.</p>
+	        <p><a class="btn btn-primary btn-lg" href="../about" role="button">Learn more &raquo;</a></p>
 	      </div>
       </div>
     </div>
@@ -55,23 +62,22 @@
     <div class="container" id="main_content">
 
     <div class="row">
-	      <div class="col-md-4 text-center">
-	      	<h2>Email</h2>
-	     	<p>sales@haynj.com</p>
-	     	<p><a class="btn btn-info" href="mailto:sales@haynj.com" role="button"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Send Message</a></p>
+	      <div class="col-md-2"></div>
+	      <div class="col-md-4">
+	     	<h2>Welcome to HayNJ</h2>
+          	<p>HayNJ is a high-quality hay supplier located in Columbus, New Jersey. We provide a variety of different hays, including timothy, alfalfa, and straw.</p>
+          	<p><a class="btn btn-default" href="../about" role="button">More about HayNJ &raquo;</a></p>
 	      </div>
 
-	      <div class="col-md-4 text-center">
-	      	<h2>Phone</h2>
-	      	<p>(908) 489-7440</p>
-	      	<p><a class="btn btn-info" href="tel:908-489-7440" role="button"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Give Us a Call</a></p>
+	      <div class="col-md-4">
+	      	<h2>Our Location</h2>
+	      	<p>Our farm is convenientally located in Columbus, New Jersey. This central New Jersey town is easily accessible from Rt. 295 or the Turnpike.
+	      	<div class="embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24428.15920473256!2d-74.6788014!3d40.0638138!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c1437afbf1a823%3A0x861417e5741cfc21!2s27058+Mt+Pleasant+Rd%2C+Mansfield%2C+NJ+08022!5e0!3m2!1sen!2sus!4v1461687371917" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+			</div>
 	      </div>
-
-	      <div class="col-md-4 text-center">
-	      	<h2>Address</h2>
-	      	<p>27058 Mount Pleasant Road, Columbus, NJ 08022</p>
-          	<p><a class="btn btn-info" href="https://www.google.com/maps/place/27058+Gaunts+Bridge,+Mansfield,+NJ+08022/@40.0665826,-74.6798546,17z/data=!3m1!4b1!4m2!3m1!1s0x89c14365220a35db:0x75bdf1718af46085" role="button"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> View on Google Maps</a></p>
-	      </div>
+	      
+	      <div class="col-md-2"></div>
 	    </div>
 
       <hr>

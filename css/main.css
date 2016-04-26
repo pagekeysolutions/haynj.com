@@ -35,10 +35,6 @@
 .mynav {
 	margin-bottom: 0px;
 }
-.logo {
-	font-size:3em;
-}
-
 .slogan {
 	font-size:20px;
 	margin: 0px;
@@ -63,4 +59,11 @@
 #map {
 	width: 500px;
 	height: 400px;
+}
+
+a.link-telephone {
+	line-height: 2em;
+}
+a.link-telephone:hover {
+	text-decoration: none;
 }

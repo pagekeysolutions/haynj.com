@@ -9,18 +9,21 @@
         <title>HayNJ</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
     <body>
     
-    <header class="container">
-    	<a href="#" id="logo"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="./img/logo-medium.png"></img></a>
+    <header class="container-fluid">
+    	<div class="row">
+    		<div class="col-md-4 col-md-offset-4"><a href="#"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="./img/logo2-medium.png"></img></a></div>
+    		<div class="col-md-4"><p class="text-right"><a class="text-info link-telephone" href="tel:908-489-7440" role="button"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (908) 489-7440</a></p></div>
+    	</div>
     </header>
 
 	<nav class="navbar navbar-default mynav" role="navigation">
@@ -50,7 +53,7 @@
       <div class="container">
 	      <div class="col-md-8 col-md-offset-2">
 		    <h1>Hay there!</h1>
-	        <p>HayNJ is a hay vendor located in Columbus, New Jersey.</p>
+	        <p>HayNJ is a hay supplier located in Columbus, New Jersey.</p>
 	        <p><a class="btn btn-primary btn-lg" href="./about" role="button">Learn more &raquo;</a></p>
 	      </div>
       </div>
@@ -62,7 +65,7 @@
 	      <div class="col-md-2"></div>
 	      <div class="col-md-4">
 	     	<h2>Welcome to HayNJ</h2>
-          	<p>HayNJ is a high-quality hay vendor located in Columbus, New Jersey. We provide a variety of different hays, including timothy, alfalfa, and straw.</p>
+          	<p>HayNJ is a high-quality hay supplier located in Columbus, New Jersey. We provide a variety of different hays, including timothy, alfalfa, and straw.</p>
           	<p><a class="btn btn-default" href="./about" role="button">More about HayNJ &raquo;</a></p>
 	      </div>
 
@@ -70,7 +73,7 @@
 	      	<h2>Our Location</h2>
 	      	<p>Our farm is convenientally located in Columbus, New Jersey. This central New Jersey town is easily accessible from Rt. 295 or the Turnpike.
 	      	<div class="embed-responsive embed-responsive-16by9">
-	      		<iframe class="embed-responsive-item" src="https://www.google.com/maps/place/27058+Mt+Pleasant+Rd,+Mansfield,+NJ+08022/@40.0638138,-74.6788014,14.75z/data=!4m2!3m1!1s0x89c1437afbf1a823:0x861417e5741cfc21?hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24428.15920473256!2d-74.6788014!3d40.0638138!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c1437afbf1a823%3A0x861417e5741cfc21!2s27058+Mt+Pleasant+Rd%2C+Mansfield%2C+NJ+08022!5e0!3m2!1sen!2sus!4v1461687371917" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 	      </div>
 	      
