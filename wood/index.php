@@ -67,7 +67,7 @@
 	     	<p><a class="btn btn-info" href="../contact" role="button"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact Us</a></p>
 		</div>
 		<div class="col-md-2"></div>
-
+    </div>
       <hr>
 
       <footer class="container">

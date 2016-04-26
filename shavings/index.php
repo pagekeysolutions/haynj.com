@@ -33,7 +33,7 @@
 	      <span class="icon-bar"></span>
 	      <span class="icon-bar"></span>
 	    </button>    
-	    <a class="navbar-brand" href="#"><p class="text-center slogan" ><i>The Finest New Jersey Hay</i></p></a>
+	    <a class="navbar-brand" href="../"><p class="text-center slogan" ><i>The Finest New Jersey Hay</i></p></a>
 	  </div>
 	  <div class="navbar-collapse collapse">
 	    <ul class="nav navbar-nav navbar-left">
@@ -49,36 +49,27 @@
 	  </div>
 	</nav>
     <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
+    <div class="jumbotron jumbotron-shavings">
       <div class="container">
 	      <div class="col-md-8 col-md-offset-2">
-		    <h1>Hay there!</h1>
-	        <p>HayNJ is a hay supplier located in Columbus, New Jersey.</p>
-	        <p><a class="btn btn-primary btn-lg" href="../about" role="button">Learn more &raquo;</a></p>
+		    <h1>Wood Shavings</h1>
+	        <p>Great for livestock bedding</p><br/>
 	      </div>
       </div>
     </div>
 
     <div class="container" id="main_content">
 
-    <div class="row">
-	      <div class="col-md-2"></div>
-	      <div class="col-md-4">
-	     	<h2>Welcome to HayNJ</h2>
-          	<p>HayNJ is a high-quality hay supplier located in Columbus, New Jersey. We provide a variety of different hays, including timothy, alfalfa, and straw.</p>
-          	<p><a class="btn btn-default" href="../about" role="button">More about HayNJ &raquo;</a></p>
-	      </div>
-
-	      <div class="col-md-4">
-	      	<h2>Our Location</h2>
-	      	<p>Our farm is convenientally located in Columbus, New Jersey. This central New Jersey town is easily accessible from Rt. 295 or the Turnpike.
-	      	<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24428.15920473256!2d-74.6788014!3d40.0638138!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c1437afbf1a823%3A0x861417e5741cfc21!2s27058+Mt+Pleasant+Rd%2C+Mansfield%2C+NJ+08022!5e0!3m2!1sen!2sus!4v1461687371917" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-			</div>
-	      </div>
-	      
-	      <div class="col-md-2"></div>
-	    </div>
+    	<div class="row">
+	      	<div class="col-md-2"></div>
+		    	<div class="col-md-8">
+			      	<h2>Wood Shavings</h2>
+			     	<p>At HayNJ, we also have a large supply of wood shavings for sale. For more information about the quantity and type of shavings available, contact us.</p>
+			     	<p>Ready for the next step?</p>
+			     	<p><a class="btn btn-info" href="../contact" role="button"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact Us</a></p>
+				</div>
+			<div class="col-md-2"></div>
+		</div>
 
       <hr>
 
