@@ -35,7 +35,9 @@
 	  <div class="navbar-collapse collapse">
 	    <ul class="nav navbar-nav navbar-left">
 	        <li><a href="./hay">Hay</a></li>
-		    <li><a href="./wood">Wood</a></li>
+		    <li><a href="./wood">Firewood</a></li>
+		    <li><a href="./shavings">Shavings</a></li>
+		    <li><a href="./salt">Salt</a></li>
 	    </ul>
 	    <ul class="nav navbar-nav navbar-right">
 	      <li><a href="./about">About</a></li>
@@ -68,7 +70,7 @@
 	      	<h2>Our Location</h2>
 	      	<p>Our farm is convenientally located in Columbus, New Jersey. This central New Jersey town is easily accessible from Rt. 295 or the Turnpike.
 	      	<div class="embed-responsive embed-responsive-16by9">
-	      		<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1142.9625736854543!2d-74.67858409712565!3d40.066580224327815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c14365220a35db%3A0x75bdf1718af46085!2s27058+Gaunts+Bridge%2C+Mansfield%2C+NJ+08022!5e1!3m2!1sen!2sus!4v1461332025860" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	      		<iframe class="embed-responsive-item" src="https://www.google.com/maps/place/27058+Mt+Pleasant+Rd,+Mansfield,+NJ+08022/@40.0638138,-74.6788014,14.75z/data=!4m2!3m1!1s0x89c1437afbf1a823:0x861417e5741cfc21?hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 	      </div>
 	      

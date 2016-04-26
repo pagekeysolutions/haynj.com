@@ -69,7 +69,7 @@
 
 	      <div class="col-md-4 text-center">
 	      	<h2>Address</h2>
-	      	<p>27058 Gaunts Bridge, Columbus, NJ 08022</p>
+	      	<p>27058 Mount Pleasant Road, Columbus, NJ 08022</p>
           	<p><a class="btn btn-info" href="https://www.google.com/maps/place/27058+Gaunts+Bridge,+Mansfield,+NJ+08022/@40.0665826,-74.6798546,17z/data=!3m1!4b1!4m2!3m1!1s0x89c14365220a35db:0x75bdf1718af46085" role="button"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span> View on Google Maps</a></p>
 	      </div>
 	    </div>
