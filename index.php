@@ -58,9 +58,9 @@
 	      </div>
       </div>
     </div>
+    <h2 class="btn-info text-center">We deliver! <a class="text-warning" href="./contact">Contact us</a> to find out more.</h2>
 
     <div class="container" id="main_content">
-
     <div class="row">
 	      <div class="col-md-2"></div>
 	      <div class="col-md-4">
