@@ -63,7 +63,7 @@
 	      <div class="col-md-2"></div>
 	      <div class="col-md-4">
 	      	<h2>About Us</h2>
-	     	<p>HayNJ is a local, family-owned hay supplier located in Columbus, New Jersey. Contact us for all of your hay needs, and we will do everything in our power to complete your order.</p>
+			<p>HayNJ is a hay supplier located in Columbus, New Jersey. We deliver hay, shavings, firewood, and salt in any quantity. Contact us for all your hay needs, and we will complete your order.</p>
 	     	<p>Contact us now, and we will get to work fulfilling all of your farm supply needs.</p>
 	      </div>
 
@@ -71,7 +71,7 @@
 	      	<h2>Where to find us</h2>
 	      	<p>Our farm is convenientally located in Columbus, New Jersey. This central New Jersey town is easily accessible from Rt. 295 or the Turnpike.
 	      	<div class="embed-responsive embed-responsive-16by9">
-	      		<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1142.9625736854543!2d-74.67858409712565!3d40.066580224327815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c14365220a35db%3A0x75bdf1718af46085!2s27058+Gaunts+Bridge%2C+Mansfield%2C+NJ+08022!5e1!3m2!1sen!2sus!4v1461332025860" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24428.15920473256!2d-74.6788014!3d40.0638138!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c1437afbf1a823%3A0x861417e5741cfc21!2s27058+Mt+Pleasant+Rd%2C+Mansfield%2C+NJ+08022!5e0!3m2!1sen!2sus!4v1461687371917" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
 	      </div>
 	      
