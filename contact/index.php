@@ -19,8 +19,11 @@
     </head>
     <body>
     
-    <header class="container">
-    	<a href="../" id="logo"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="../img/logo-medium.png"></img></a>
+    <header class="container-fluid">
+    	<div class="row">
+    		<div class="col-md-4 col-md-offset-4"><a href="../"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="../img/logo2-medium.png"></img></a></div>
+    		<div class="col-md-4"><p class="text-right"><a class="text-info link-telephone" href="tel:908-489-7440" role="button"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (908) 489-7440</a></p></div>
+    	</div>
     </header>
 
 	<nav class="navbar navbar-default mynav" role="navigation">
