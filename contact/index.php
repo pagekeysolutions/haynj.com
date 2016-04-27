@@ -22,7 +22,7 @@
     <header class="container-fluid">
     	<div class="row">
     		<div class="col-md-4 col-md-offset-4"><a href="../"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="../img/logo2-medium.png"></img></a></div>
-    		<div class="col-md-4"><p class="text-right"><a class="text-info link-telephone" href="tel:908-489-7440" role="button"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (908) 489-7440</a></p></div>
+    		<div class="col-md-4"><p class="text-right"><a class="text-info link-telephone" href="tel:609-534-2791" role="button"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (609) 534-2791</a></p></div>
     	</div>
     </header>
 
@@ -68,8 +68,8 @@
 
 	      <div class="col-md-4 text-center">
 	      	<h2>Phone</h2>
-	      	<p>(908) 489-7440</p>
-	      	<p><a class="btn btn-info" href="tel:908-489-7440" role="button"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Give Us a Call</a></p>
+	      	<p>(609) 534-2791</p>
+	      	<p><a class="btn btn-info" href="tel:609-534-2791" role="button"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Give Us a Call</a></p>
 	      </div>
 
 	      <div class="col-md-4 text-center">
