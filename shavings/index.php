@@ -67,7 +67,7 @@
 			     	<p>At HayNJ, we also have a large supply of wood shavings for sale. At this time, we have three varieties of wood shavings for sale.
 				<div>
 				<h3>Fine</h3>
-				<img style="float: left;" src="../img/shavings/fine.jpg" />
+				<img src="../img/shavings/fine.jpg" />
 				<p><b>The optimal protection against bacteria with high quality fine wood shavings.</b></p>
 				<p>OBEC'S PREMIUM SS Wood Shavings 
 offer the highest level of moisture absorp-
@@ -83,7 +83,7 @@ Expands to 5.00 cu ft (141.5 L)</p>
 				</div>
 				<div>
 				<h3>Medium</h3>
-				<img style="float: left;" src="../img/shavings/medium.jpg" />
+				<img src="../img/shavings/medium.jpg" />
 				<p><b>The most suitable brand of wood shavings for livestock and horses with maximum absorption.</b></p>
 				<p>Our most popular brand, OBEC'S 
 Premium MS Wood Shavings are 
@@ -100,7 +100,7 @@ Expands to 7.00 cu ft (198.2 L)
 				</div>
 				<div>
 				<h3>Bedding Pellets</h3>
-				<img style="float: left;" src="../img/shavings/bedding_pellets.jpg" />
+				<img src="../img/shavings/bedding_pellets.jpg" />
 				<p><b>The most suitable brand of wood pellets for reducing health risks and removal costs.</b></p>
 				<p>LG Bedding Pellets are a 100%
 natural wood product, manufactured
