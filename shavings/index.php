@@ -64,7 +64,46 @@
 	      	<div class="col-md-2"></div>
 		    	<div class="col-md-8">
 			      	<h2>Wood Shavings</h2>
-			     	<p>At HayNJ, we also have a large supply of wood shavings for sale. For more information about the quantity and type of shavings available, contact us.</p>
+			     	<p>At HayNJ, we also have a large supply of wood shavings for sale. At this time, we have three varieties of wood shavings for sale.
+				<h3>Fine</h3>
+				<p><b>The optimal protection against bacteria with high quality fine wood shavings.</b></p>
+				<p>OBEC'S PREMIUM SS Wood Shavings 
+offer the highest level of moisture absorp-
+tion available. RIP-O-BEC created this 
+brand especially for the dairy and pork 
+industries where hygiene is paramount. 
+Give your cows and pigs optimal 
+protection against bacteria with 
+high quality fine wood shavings.
+Available:
+Compressed 3.00 cu ft (84.95 L)
+Expands to 5.00 cu ft (141.5 L)</p>
+				<h3>Medium</h3>
+				<p><b>The most suitable brand of wood shavings for livestock and horses with maximum absorption.</b></p>
+				<p>Our most popular brand, OBEC'S 
+Premium MS Wood Shavings are 
+designed for horses but are also very 
+suitable for other livestock. These 
+medium-sized wood shavings are kiln-
+dried for maximum absorption, providing 
+animals with excellent bedding cleanliness 
+and comfort.
+Available:
+Compressed 3.00 cu ft (84.95 L)
+Expands to 7.00 cu ft (198.2 L)
+</p>
+				<h3>Bedding Pellets</h3>
+				<p><b>The most suitable brand of wood pellets for reducing health risks and removal costs.</b></p>
+				<p>LG Bedding Pellets are a 100%
+natural wood product, manufactured
+using clean, ultra-dry wood fibers 
+with no additives.
+These 100% wood pellets contain
+no bark, additives, or chemicals.
+Available:
+35 lb/15.88 kg</p>
+				<hr>
+				<p>For more information about the price, quantity, and type of shavings available, contact us.</p>
 			     	<p>Ready for the next step?</p>
 			     	<p><a class="btn btn-info" href="../contact" role="button"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact Us</a></p>
 				</div>
