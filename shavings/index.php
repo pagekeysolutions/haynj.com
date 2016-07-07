@@ -65,6 +65,7 @@
 		    	<div class="col-md-8">
 			      	<h2>Wood Shavings</h2>
 			     	<p>At HayNJ, we also have a large supply of wood shavings for sale. At this time, we have three varieties of wood shavings for sale.
+				<div>
 				<h3>Fine</h3>
 				<img style="float: left;" src="../img/shavings/fine.jpg" />
 				<p><b>The optimal protection against bacteria with high quality fine wood shavings.</b></p>
@@ -79,6 +80,8 @@ high quality fine wood shavings.
 Available:
 Compressed 3.00 cu ft (84.95 L)
 Expands to 5.00 cu ft (141.5 L)</p>
+				</div>
+				<div>
 				<h3>Medium</h3>
 				<img style="float: left;" src="../img/shavings/medium.jpg" />
 				<p><b>The most suitable brand of wood shavings for livestock and horses with maximum absorption.</b></p>
@@ -94,6 +97,8 @@ Available:
 Compressed 3.00 cu ft (84.95 L)
 Expands to 7.00 cu ft (198.2 L)
 </p>
+				</div>
+				<div>
 				<h3>Bedding Pellets</h3>
 				<img style="float: left;" src="../img/shavings/bedding_pellets.jpg" />
 				<p><b>The most suitable brand of wood pellets for reducing health risks and removal costs.</b></p>
@@ -105,6 +110,7 @@ These 100% wood pellets contain
 no bark, additives, or chemicals.
 Available:
 35 lb/15.88 kg</p>
+				</div>
 				<hr>
 				<p>For more information about the price, quantity, and type of shavings available, contact us.</p>
 			     	<p>Ready for the next step?</p>
