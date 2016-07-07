@@ -99,6 +99,20 @@ Expands to 7.00 cu ft (198.2 L)
 </p>
 				</div>
 				<div>
+				<h3>Large</h3>
+				<img src="../img/shavings/large.jpg" />
+				<p><b>The ultimate wood shavings product in terms of comfort and hygiene with optimum dust control.</b></p>
+				<p>OBEC'S Premium XLS Wood Shavings 
+are our premium quality wood shavings 
+designed for racehorses. OBEC'S 
+Premium XLS Wood Shavings provide 
+the ultimate in comfort and hygiene 
+with optimum dust control.
+Available:
+Compressed 3.00 cu ft (84.95 L)
+Expands to 8.00 cu ft (226.5 L)</p>
+				</div>
+				<div>
 				<h3>Bedding Pellets</h3>
 				<img src="../img/shavings/bedding_pellets.jpg" />
 				<p><b>The most suitable brand of wood pellets for reducing health risks and removal costs.</b></p>
