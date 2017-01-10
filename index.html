@@ -21,7 +21,7 @@
     
     <header class="container-fluid">
     	<div class="row">
-    		<div class="col-md-4 col-md-offset-4"><a href="#"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="./img/logo2-medium.png"></img></a></div>
+    		<div class="col-md-4 col-md-offset-4"><a href="#"><img class="img-fluid center-block" width="300px" alt="HayNJ" src="./img/logo2-medium.png" /></a></div>
     		<div class="col-md-4"><p class="text-right"><a class="text-info link-telephone" href="tel:609-534-2791" role="button"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (609) 534-2791</a></p></div>
     	</div>
     </header>
@@ -61,7 +61,7 @@
     <h2 class="btn-info text-center">We deliver! <a class="text-warning" href="./contact">Contact us</a> to find out more.</h2>
 
     <div class="container" id="main_content">
-    <div class="row">
+    	<div class="row">
 	      <div class="col-md-2"></div>
 	      <div class="col-md-4">
 	     	<h2>Welcome to HayNJ</h2>
@@ -79,15 +79,21 @@
 	      
 	      <div class="col-md-2"></div>
 	    </div>
+     	
+      	<hr>
 
-      <hr>
-
-      <footer class="container">
-      <div class="row">
-      <div class="col-md-8 center col-md-offset-2">
-        <p class="text-center">HayNJ <?php echo date('Y'); ?></p>
-        </div></div>
-      </footer>
+      	<footer class="container">
+			<div class="row">
+			<div class="col-md-8 center col-md-offset-2">
+			<div class="text-center">
+				Copyright &copy;<span id="footer_year"></span> HayNJ
+				<div class="dev">
+					Site developed by <a href="http://stephengrice.com/">Stephen Grice</a>
+				</div>
+			</div>
+			</div>
+     		</div>
+      	</footer>
     </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 

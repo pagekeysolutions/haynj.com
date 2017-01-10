@@ -5,6 +5,9 @@
 .body {
 	padding-top: 0px;
 	padding-bottom: 20px;
+	min-height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .jumbotron {
@@ -72,4 +75,8 @@ a.link-telephone {
 }
 a.link-telephone:hover {
 	text-decoration: none;
+}
+
+.dev {
+	font-size: 70%;
 }
